@@ -1,0 +1,11 @@
+
+    </div>
+  </div>
+
+  <nav class="unslider-control">
+    <a href="#" class="unslider-prev"><?php echo $this->previous; ?></a>
+    <span class="unslider-menu"></span>
+    <a href="#" class="unslider-next"><?php echo $this->next; ?></a>
+  </nav>
+
+</div>
